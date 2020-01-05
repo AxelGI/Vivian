@@ -40,8 +40,12 @@ nav{
 	padding-right: 10px;
 	display: inline;
 }
-#cursi{
-	font-size: 35px;
+footer{
+	background-color: purple;
+	width: auto;
+	height: auto;
+	text-align: center;
+	opacity: 0.8;
 }
 button{
 	background-color: #DD0F6D;
@@ -50,14 +54,17 @@ button{
 	color: white;
 	letter-spacing: 2px;
 }
-
+.foot{
+	margin:3px;
+	font-size: 15px;
+}
 #b1{
 	background-color: green;
 	border-color: black;
 }	
 .principal{
 	background: white;
-	height: 1000px; 
+	height: 650px; 
 	width: 1290px;
 	opacity: 0.8;
 }
@@ -67,6 +74,13 @@ button{
 	width: 100%
 	display:flex;
 	flex-wrap: wrap;
+}
+#txt4{
+	text-align: left;
+	margin:15px;
+	width: auto;
+	height: 650px;
+	color: black;
 }
 #txt1{
 	text-align: left;
@@ -78,6 +92,8 @@ button{
 #txt2{
 	text-align: left;
 	margin:15px;
+	width: auto;
+	height: auto;
 	color: black;
 }
 #txt3{
