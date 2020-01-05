@@ -307,7 +307,11 @@ a.btn-small span.btn{
 }
 
 
-
+.overlay{
+	color:green;
+	font-size: 25px;
+	text-align: left;
+}
 
 
 .linea{
@@ -353,7 +357,7 @@ a.btn-small span.btn{
 
 
 .desvanecer:hover {
-  	opacity: 0.07;
+  	opacity: 0.25;
 	transition: opacity 500ms;
   	-moz-transition: opacity 500ms;
   	-o-transition: opacity 500ms;
