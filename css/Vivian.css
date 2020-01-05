@@ -40,6 +40,9 @@ nav{
 	padding-right: 10px;
 	display: inline;
 }
+#cursi{
+	font-size: 35px;
+}
 button{
 	background-color: #DD0F6D;
 	font-size: 25px; 
